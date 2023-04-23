@@ -4,7 +4,7 @@ title = "Regex Resources"
 slug = 'regex-resources'
 date = 2023-04-23T20:38:09-05:00
 tags = ['Regex']
-draft = false
+draft = true
 +++
 
 Knowing how to use Regular Expressions (Regex) to solve a technology problem is a superpower.
