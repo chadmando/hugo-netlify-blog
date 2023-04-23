@@ -2,18 +2,18 @@
 categories = ['technology']
 title = "Regex Resources"
 slug = 'regex-resources'
-date = 2023-04-10T20:38:09-05:00
+date = 2023-04-23T20:38:09-05:00
 tags = ['Regex']
-draft = true
+draft = false
 +++
 
-Knowing how to use Regular Expressions (Regex) is a superpower.
-You'll encounter Regex in lots of different technologies.
+Knowing how to use Regular Expressions (Regex) to solve a technology problem is a superpower.
+You'll encounter Regex in lots of different places.
 Most programming languages have some version of Regex built-in and many command-line tools allow you to use Regex patterns.
 Even Visual Studio Code has a Regex pattern search option.
 
 
-The major barrier to effective Regex is the strange pattern structure.
+Despite its power, developing Regex patterns requires mastering the strange pattern structure.
 It takes time to develop the skill of crafting patterns with no outside help.
 Writing a pattern usually requires a Regex tool.
 These are my some of my favorite resources to help with creating patterns.
@@ -38,17 +38,19 @@ The permalink option is handy for sharing your pattern and test data with others
 #### Regex 101
 
 [Regular Expressions 101](https://regex101.com/) is another excellent Regex validation site.
-This site has more features than Rubular, but the _Quick Reference_ area isn't as easy to read.
+It has more features than Rubular, but the _Quick Reference_ area isn't as easy to read.
 There is an _Explanation_ section that describes your what your pattern will match.
 The site provides detailed match information that can be exported.
 
 ![Regex 101](./regex101_with_test_data.png)
 
-### Pre-Built Regex Patterns
+### Pre-Built Regex Patterns from Regexhub
 
-Grab prebuild Regex patterns from [Regex Pattern Site]().
+Occasionally, you are trying to match on a common piece of data, like a phone number or an IPv4 address.
+The [regexhub project](https://projects.lukehaas.me/regexhub/) is a collection of common patterns based on GitHub contributions.
+
+![regexhub site image](./regex_patterns_site.png)
 
 ### More Resources
 
-If you are looking for more, this popular [awesome-regex](https://github.com/aloisdg/awesome-regex) repository on GitHub includes many prototyping sites and links for documentation and learning. 
-
+If you are searching for more help, this popular [awesome-regex](https://github.com/aloisdg/awesome-regex) repository on GitHub includes many prototyping sites and links for documentation and learning. 
