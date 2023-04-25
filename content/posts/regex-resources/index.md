@@ -3,9 +3,9 @@ categories = ['technology']
 title = "Regex Resources"
 description = "A short list of online resources for creating Regex patterns"
 slug = 'regex-resources'
-date = 2023-04-22T20:38:09-05:00
+date = 2023-04-24
 tags = ['Regex']
-draft = true
+draft = false
 +++
 
 Knowing how to use Regular Expressions (Regex) to solve a technology problem is a superpower.
