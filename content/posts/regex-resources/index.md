@@ -1,8 +1,9 @@
 +++
 categories = ['technology']
 title = "Regex Resources"
+description = "A short list of online resources for creating Regex patterns"
 slug = 'regex-resources'
-date = 2023-04-23T20:38:09-05:00
+date = 2023-04-22T20:38:09-05:00
 tags = ['Regex']
 draft = true
 +++
@@ -46,8 +47,15 @@ The site provides detailed match information that can be exported.
 
 ### Pre-Built Regex Patterns from Regexhub
 
-Occasionally, you are trying to match on a common piece of data, like a phone number or an IPv4 address.
+Occasionally, you are trying to match a common data pattern, like a phone number or an IPv4 address.
 The [regexhub project](https://projects.lukehaas.me/regexhub/) is a collection of common patterns based on GitHub contributions.
+Some examples of the patterns on regexhub:
+
++ Email address
++ Dates & Times
++ URL
++ Zipcodes
++ HTML Tags
 
 ![regexhub site image](./regex_patterns_site.png)
 
