@@ -2,5 +2,5 @@
 	path = themes/binario
 	url = https://github.com/vimux/binario
 [submodule "Mainroad"]
-	path = Mainroad
+	path = themes/Mainroad
 	url = https://github.com/Vimux/Mainroad
